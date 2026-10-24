@@ -44,8 +44,23 @@ Simon-Game/
 - app.js
 - README.md
 
+## GitHub Repository:
+
+Visit Repository:
+https://github.com/ronyadhikary250905-cloud/JavaScript-Playground.git
+
+## Live Demo
+
+Visit Live Link:
+https://ronyadhikary250905-cloud.github.io/JavaScript-Playground/
+
 ## Author
 
 Rony Adhikary
 
 Computer Science Student | Aspiring Full Stack Developer
+
+## Acknowledgements
+
+This project was created as part of my web development learning journey.
+
